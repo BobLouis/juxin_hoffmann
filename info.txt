@@ -1,0 +1,71 @@
+id:1
+name:"Model: V7793"
+description:"Colour: 8132-H30 GunM
+Material: Natural horn
+This model is available in all Hoffmann Natural Eyewear V-Line colourways."
+
+id:2
+name:"Model: T87010"
+description:"Colour: 1493 GunG
+Material: Natural horn
+This model is available in all Hoffmann Natural Eyewear T8700-line colourways."
+
+id:3
+name:"Model: V7792"
+description:"Colour: SPH07 matt GG
+Material: Natural horn
+This model is available in all Hoffmann Natural Eyewear V-Line colourways."
+
+id:4
+name:"Model: V7791"
+description:"Colour: SPH07 GG
+Material: Natural horn
+This model is available in all Hoffmann Natural Eyewear V-Line colourways."
+
+id:5
+name:"Model: T87022"
+description:"Colour: SPH08 GG
+Material: Natural horn
+This model is available in all Hoffmann Natural Eyewear T8700-line colourways."
+
+id:6
+name:"Model: T8702"
+description:"Colour: H15
+Material: Natural horn
+This model is available in all Hoffmann Natural Eyewear T8700-line colourways."
+
+id:7
+name:"Model: BLOC VI"
+description:"Colour: 944-2-H10
+Material: Natural horn
+This model is available in all Hoffmann Natural Eyewear BLOC VI colourways."
+
+id:8
+name:"Model: 2360"
+description:"Colour: KH1 H10/910-H10
+Material: Natural horn
+This model is available in all Hoffmann Natural Eyewear S-Line colourways."
+
+id:9
+name:"Model: 2359"
+description:"Colour: 9071
+Material: Natural horn
+This model is available in all Hoffmann Natural Eyewear S-Line colourways."
+
+id:10
+name:"Model: 2356"
+description:"Colour: H20 f-matt
+Material: Natural horn
+This model is available in all Hoffmann Natural Eyewear S-Line colourways."
+
+id:11
+name:"Model: 2355"
+description:"Colour: H10
+Material: Natural horn
+This model is available in all Hoffmann Natural Eyewear S-Line colourways."
+
+id:12
+name:"Model: 2355"
+description:"Colour: H48
+Material: Natural horn
+This model is available in all Hoffmann Natural Eyewear S-Line colourways."
